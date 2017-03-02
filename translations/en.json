@@ -16,7 +16,7 @@
           "title": "This is the label for parameter: allow_agents_choose_timeout"
         },
         "helpText": {
-          "value": "Each agent can choose his own timeout if you enable this option, otherwise the timeout is set to 10 seconds for everyone.",
+          "value": "Each agent can choose his own timeout if you enable this option, otherwise the timeout is set to 30 seconds for everyone.",
           "title": "This is the help text for parameter: allow_agents_choose_timeout"
         }
       }
